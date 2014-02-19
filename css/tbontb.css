@@ -10,34 +10,61 @@ body{
     right:0px;
 }
 
-/* Side Menus */
-
-div#menu-left{
-    width:200px;
-    height:100%;
-    position:fixed;
-    top:0px;
-    left:-180px;
-    background:lightBlue;
-    border-right:1px solid black;
-    overflow:hidden;
+h1#page-title{
+    margin-left:60px;
 }
 
-div#menu-left.extended{
-    left:0px;
+svg#story-box{
+    position:absolute;
+    bottom:10px;
+    top:10px;
+    left:10px;
+    right:10px;
 }
 
-div#menu-bottom{
-    width:100%;
-    height:200px;
-    bottom:-180px;
-    left:0px;
-    position:fixed;
-    background:lightBlue;
-    border-top:1px solid black;
+.link{
+    stroke:black;
+    stroke-width:2;
 }
 
-div#menu-bottom.extended{
-    bottom:0px;
-    opacity:0.7;
+.link.skull{
+    stroke:red;
+    stroke-width:3;
+}
+
+.link.picture{
+    stroke-width:10;
+}
+
+.page{
+    fill:grey;
+}
+
+.page.hamlet{
+    fill:black;
+}
+
+.page.ophelia{
+    fill:green;
+}
+
+.page.senior{
+    fill:lightBlue;
+}
+
+.page.introduction,
+.page.reader{
+    fill:white;
+    stroke:black;
+    stroke-width:1;
+}
+
+.page.picture{
+    stroke:purple;
+    stroke-width:4;
+    stroke-dasharray:5,5
+}
+
+.page.end{
+    fill:red;
 }
