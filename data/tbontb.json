@@ -2417,7 +2417,7 @@
     "number":288,
     "character":"hamlet",
     "links":[
-        {"target":414,"type":"choice","skull":false}
+        {"target":414,"type":"choice","skull":true}
     ],
     "isEnd":false,
     "isPicture":false
