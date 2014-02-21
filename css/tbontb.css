@@ -61,10 +61,11 @@ svg#story-box{
 
 .page.picture{
     stroke:purple;
-    stroke-width:4;
+    stroke-width:2;
     stroke-dasharray:5,5
 }
 
 .page.end{
-    fill:red;
+    stroke:red;
+    stroke-width:2;
 }
