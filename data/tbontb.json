@@ -2598,6 +2598,283 @@
     ],
     "isEnd":false,
     "isPicture":false
+},{
+    "number":310,
+    "character":"hamlet",
+    "links":[
+        {"target":279,"type":"choice","skull":false},
+        {"target":438,"type":"choice","skull":true}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":311,
+    "character":"hamlet",
+    "links":[
+        {"target":81,"type":"choice","skull":false},
+        {"target":315,"type":"choice","skull":false},
+        {"target":210,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":312,
+    "character":"notEntered",
+    "links":[
+        {"target":313,"type":"text","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":true
+},{
+    "number":313,
+    "character":"notEntered",
+    "links":[
+        {"target":312,"type":"picture","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":false
+},{
+    "number":314,
+    "character":"hamlet",
+    "links":[
+        {"target":303,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":315,
+    "character":"hamlet",
+    "links":[
+        {"target":65,"type":"choice","skull":false},
+        {"target":631,"type":"choice","skull":false},
+        {"target":316,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":316,
+    "character":"hamlet",
+    "links":[
+        {"target":221,"type":"choice","skull":false},
+        {"target":340,"type":"choice","skull":false},
+        {"target":506,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":317,
+    "character":"hamlet",
+    "links":[
+        {"target":181,"type":"choice","skull":true}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":318,
+    "character":"hamlet",
+    "links":[
+        {"target":247,"type":"choice","skull":true},
+        {"target":265,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":319,
+    "character":"hamlet",
+    "links":[
+        {"target":326,"type":"choice","skull":true},
+        {"target":352,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":320,
+    "character":"hamlet",
+    "links":[
+        {"target":353,"type":"choice","skull":false},
+        {"target":338,"type":"choice","skull":true}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":321,
+    "character":"hamlet",
+    "links":[
+        {"target":113,"type":"choice","skull":true}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":322,
+    "character":"notEntered",
+    "links":[
+        {"target":323,"type":"text","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":true
+},{
+    "number":323,
+    "character":"notEntered",
+    "links":[
+        {"target":322,"type":"picture","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":false
+},{
+    "number":324,
+    "character":"hamlet",
+    "links":[
+        {"target":325,"type":"continue","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":325,
+    "character":"hamlet",
+    "links":[
+        {"target":401,"type":"choice","skull":false},
+        {"target":227,"type":"choice","skull":true},
+        {"target":290,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":326,
+    "character":"hamlet",
+    "links":[
+        {"target":347,"type":"choice","skull":true},
+        {"target":114,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":327,
+    "character":"hamlet",
+    "links":[
+        {"target":372,"type":"choice","skull":false},
+        {"target":361,"type":"choice","skull":false},
+        {"target":314,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":328,
+    "character":"ophelia",
+    "links":[
+        {"target":329,"type":"text","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":true
+},{
+    "number":329,
+    "character":"ophelia",
+    "links":[
+        {"target":328,"type":"picture","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":false
+},{
+    "number":330,
+    "character":"hamlet",
+    "links":[
+        {"target":170,"type":"choice","skull":false},
+        {"target":320,"type":"choice","skull":true}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":331,
+    "character":"hamlet",
+    "links":[
+        {"target":210,"type":"choice","skull":false},
+        {"target":81,"type":"choice","skull":false},
+        {"target":315,"type":"choice","skull":true}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":332,
+    "character":"notEntered",
+    "links":[
+        {"target":61,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":333,
+    "character":"hamlet",
+    "links":[
+        {"target":206,"type":"choice","skull":true}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":334,
+    "character":"notEntered",
+    "links":[
+        {"target":334,"type":"text","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":true
+},{
+    "number":335,
+    "character":"notEntered",
+    "links":[
+        {"target":334,"type":"picture","skull":false}
+    ],
+    "isEnd":true,
+    "isPicture":false
+},{
+    "number":336,
+    "character":"author",
+    "links":[
+        {"target":4,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":337,
+    "character":"notEntered",
+    "links":[
+        {"target":362,"type":"choice","skull":false},
+        {"target":360,"type":"choice","skull":false},
+        {"target":368,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":338,
+    "character":"hamlet",
+    "links":[
+        {"target":339,"type":"continue","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":339,
+    "character":"hamlet",
+    "links":[
+        {"target":514,"type":"choice","skull":true},
+        {"target":404,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":340,
+    "character":"hamlet",
+    "links":[
+        {"target":224,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
+},{
+    "number":341,
+    "character":"hamlet",
+    "links":[
+        {"target":157,"type":"choice","skull":false}
+    ],
+    "isEnd":false,
+    "isPicture":false
 }
 
 
